@@ -3,7 +3,7 @@
 <h2><p align="center"><strong> Skylab - React.JS
 
 
- <strong>Tela inicial</strong>
+ <strong>1° tela</strong>
 
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 
 
-<strong>Tela de cadastro de uma nova ideia</strong>
+<strong>2° tela</strong>
 
 
 <p align="center">

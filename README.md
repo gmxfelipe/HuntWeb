@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="https://uploaddeimagens.com.br/images/002/568/353/original/skylab-e1568640769783.png?1585937313"></p>
-<h2><p align="center"><strong> Skylab - React.JS
+<h2><p align="center"><strong> - Skylab - React.JS
 
 
  <strong>1° tela</strong>
